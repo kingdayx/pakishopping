@@ -1,0 +1,12 @@
+.header {
+  background: rgba(158, 158, 158, 0.2);
+  text-align: center;
+  line-height: 1.15;
+  justify-content: flex-end;
+  margin-bottom: -20px;
+  padding-bottom: -50px;
+  font-size: 12px;
+}
+.head {
+  align-items: center;
+}
